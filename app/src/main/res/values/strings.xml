@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial05</string>
+    <string name="txtUserName">userName</string>
+    <string name="txtUN">User Name</string>
+    <string name="txtPwd">Password</string>
+    <string name="editName">Name</string>
+    <string name="editPwd">Password</string>
+    <string name="selectAll">SELECT ALL</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="signin">SIGN IN</string>
+    <string name="update">UPDATE</string>
+</resources>
